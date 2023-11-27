@@ -2,6 +2,7 @@ import { Box, Center, ChakraProvider, Flex, Input, Spinner } from '@chakra-ui/re
 import Botao from '../Button/Button';
 import { useState, useEffect } from 'react';
 import { api } from '../../api';
+import './Card.css'// 
 
 interface UserData{
   email: string

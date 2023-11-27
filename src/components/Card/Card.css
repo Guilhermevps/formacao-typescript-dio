@@ -1,0 +1,8 @@
+h1{
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 0 0 7px rgba(255, 255, 255, 0.5);
+}
